@@ -1,4 +1,3 @@
-[![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2022/04/117-coding-programming-interview-questions-answers-2022-prep-guide.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
 <h3 align="center">A passionate software developer</h3>
 
