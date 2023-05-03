@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif)](https://rishavchanda.io)
+[![MasterHead]([https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif](https://www.dignited.com/wp-content/uploads/2022/08/top10lan-1024x576.jpg))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
 <h3 align="center">A passionate software developer</h3>
 
