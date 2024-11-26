@@ -1,9 +1,3 @@
-<div style="background-color: black; color: white; padding: 20px; font-family: Arial, sans-serif; text-align: center;">
-  <h1 style="margin: 0; font-size: 48px; font-weight: bold;">
-    ✨ You are at &lt;dev sbmmpak /&gt;
-  </h1>
-  <p style="margin: 10px 0; font-size: 36px; font-weight: 600;">Muneeb</p>
-</div>
 
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
 <h3 align="center">An enthusiastic software developer</h3>
