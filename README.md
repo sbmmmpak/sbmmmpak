@@ -1,3 +1,5 @@
+![Alt text](path/to/download.png)
+
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
 <h3 align="center">An enthusiastic software developer</h3>
 
